@@ -186,7 +186,9 @@
   venue: Journal of Systems and Software, 219, Article 112236
   url: https://doi.org/10.1016/j.jss.2024.112236
   type: published
-- section: quantum
+- section: perspectives
+  perspective_order: 2
+  perspective_label: Quantum Computing for Software Engineering (QC4SE)
   year: 2025
   title: Quantum-Based Software Engineering
   authors: Jianjun Zhao
@@ -336,7 +338,9 @@
   venue: 2nd IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE 2021), 16–21
   type: published
   url: https://doi.org/10.1109/Q-SE52541.2021.00011
-- section: quantum
+- section: perspectives
+  perspective_order: 1
+  perspective_label: Software Engineering for Quantum Computing (SE4QC)
   year: 2020
   title: 'Quantum Software Engineering: Landscapes and Horizons'
   authors: Jianjun Zhao
