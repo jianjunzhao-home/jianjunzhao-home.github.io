@@ -8,6 +8,8 @@ author_profile: true
 
 My main research area is quantum software engineering. I study methods for developing and assessing quantum software, with work on program analysis, testing, debugging, specification, and verification. I am also interested in software design and architecture, and in how to define and measure quantum software quality. Beyond individual techniques, I am interested in developing a systematic engineering foundation for quantum software, taking into account both established software engineering principles and the unique characteristics of quantum computing.
 
+I work with the following Ph.D. students on quantum software engineering: Shangzhou Xia, Tiancheng Jin, Qiming Li, Xiaoyu Guo, Xiyuan Li, Zicen Zhao, Minqi Shao, and Qichen Wang.
+
 ## Quality Assurance for AI Systems
 
 I also work on quality assurance for AI systems. Much of this research concerns testing, robustness evaluation, verification, debugging, and repair of deep learning systems and AI-enabled cyber-physical systems.
