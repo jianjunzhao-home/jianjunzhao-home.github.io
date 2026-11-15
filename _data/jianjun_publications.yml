@@ -358,7 +358,6 @@
   type: published
   url: https://doi.org/10.1145/3744916.3764528
   award: ACM SIGSOFT Distinguished Paper Award (ICSE 2026)
-  award_url: https://conf.researchr.org/details/icse-2026/icse-2026-research-track/11/A-Comprehensive-Study-of-Deep-Learning-Model-Fixing-Approaches
 - section: ai
   year: 2026
   title: 'META²V2V: Revealing Behavioural Deviations under Mutual Perception in Multi-Vehicle Autonomous Driving'
@@ -405,7 +404,6 @@
   url: https://doi.org/10.1145/3238147.3238202
   type: published
   award: ACM SIGSOFT Distinguished Paper Award (ASE 2018)
-  award_url: https://ase2018.com/?p=program
 - section: ai
   year: 2018
   title: 'DeepMutation: Mutation Testing of Deep Learning Systems'
