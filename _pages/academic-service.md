@@ -10,7 +10,7 @@ author_profile: true
 
 ## Selected Conference Organization
 
-- **General Co-Chair**, 51st IEEE/ACM International Conference on Software Engineering (ICSE 2029), Tokyo, Japan.
+- General Co-Chair, 51st IEEE/ACM International Conference on Software Engineering (ICSE 2029), Tokyo, Japan.
 - Technical Briefings Co-Chair, 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024).
 - Workshops Co-Chair, 31st Asia-Pacific Software Engineering Conference (APSEC 2024).
 - Program Co-Chair, 3rd International Workshop on Quantum Software Engineering (Q-SE 2022).

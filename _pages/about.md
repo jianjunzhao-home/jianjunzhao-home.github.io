@@ -17,6 +17,8 @@ I am a Professor in the Department of Information Science and Technology at Kyus
 - **Quality Assurance for AI Systems**
 - **Software Engineering and Programming Languages**
 
+More details are available on the [Research](/research/) page.
+
 ## Publications
 
 Selected papers are listed on the [Publications](/publications/) page. For a more complete and up-to-date record, please see my [Google Scholar](https://scholar.google.com/citations?user=PZZ0iygAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/71/6948-1.html) profile.
