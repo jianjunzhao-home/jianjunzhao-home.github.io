@@ -13,13 +13,9 @@ I am a Professor in the Department of Information Science and Technology at Kyus
 
 ## Research
 
-My current research areas include:
-
-- **Quantum software engineering**, including program testing, analysis, and specification
-- **Software testing and program analysis**, including dependence analysis and verification
-- **Quality assurance for AI systems**, particularly testing and analysis of deep learning systems
-
-More details are available on the [Research](/research/) page.
+- **Quantum Software Engineering**
+- **Quality Assurance for AI Systems**
+- **Software Engineering and Programming Languages**
 
 ## Publications
 
