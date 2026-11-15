@@ -12,7 +12,7 @@ baseurl: ""
 repository: "jianjunzhao-home/jianjunzhao-home.github.io"
 
 author:
-  avatar: "avatar-placeholder.svg" # Temporary initials; replace with a personal profile photo after uploading it to images/
+  avatar: "profile.png" # Temporary initials; replace with a personal profile photo after uploading it to images/
   name: "Jianjun Zhao"
   bio: "Professor of Software Engineering and Programming Languages, Kyushu University"
   location: "Fukuoka, Japan"
