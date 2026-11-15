@@ -4,18 +4,14 @@ permalink: /research/
 author_profile: true
 ---
 
-My work focuses on methods and tools for analyzing, testing, and verifying software.
-
 ## Quantum Software Engineering
 
-I study software engineering techniques for quantum programs, including program testing, analysis, and behavioral specifications. The goal is to support the development of reliable quantum software.
-
-## Program Analysis, Testing, and Verification
-
-This research examines methods for understanding program behavior, identifying faults, and improving software reliability. Topics include program dependence, program analysis, debugging, and software testing.
+My main research area is quantum software engineering. I study methods for developing and assessing quantum software, with work on program analysis, testing, debugging, specification, and verification. I am also interested in software design and architecture, and in how to define and measure quantum software quality. Beyond individual techniques, I am interested in developing a systematic engineering foundation for quantum software, taking into account both established software engineering principles and the unique characteristics of quantum computing.
 
 ## Quality Assurance for AI Systems
 
-This research investigates testing methods for deep learning systems, including testing criteria, test generation, and fault detection.
+I also work on quality assurance for AI systems. Much of this research concerns testing, robustness evaluation, verification, debugging, and repair of deep learning systems and AI-enabled cyber-physical systems.
 
-For papers related to these topics, see [Publications](/publications/).
+## Software Engineering and Programming Languages
+
+My earlier research covered program dependence analysis, program slicing, software testing, and aspect-oriented software development. I continue to draw on this background in my research on quantum software and AI systems.
