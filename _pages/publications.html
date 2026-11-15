@@ -31,6 +31,11 @@ author_profile: true
       {% endif %}<br />
       {{ paper.authors | escape }}.<br />
       <em>{{ paper.venue | escape }}</em>{% if paper.note %}. {{ paper.note | escape }}{% endif %}.
+      {% if paper.award %}
+      <div style="margin-top: 0.25em; font-weight: 600;">
+        {% if paper.award_url %}<a href="{{ paper.award_url }}">{{ paper.award | escape }}</a>{% else %}{{ paper.award | escape }}{% endif %}
+      </div>
+      {% endif %}
       {% if paper.earlier_version %}
       <div style="margin-top: 0.35em; font-size: 0.9em; line-height: 1.5;">
         Earlier version: <a href="{{ paper.earlier_version.url }}">{{ paper.earlier_version.title | escape }}</a>.<br />

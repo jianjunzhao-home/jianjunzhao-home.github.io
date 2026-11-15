@@ -16,41 +16,42 @@
   year: 2026
   title: 'QDoctor: Probe-Based Testing for Quantum Programs'
   authors: Qichen Wang, Shangzhou Xia, Xiaoyu Guo, and Jianjun Zhao
-  venue: ASE 2026
+  venue: 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
   url: https://doi.org/10.1145/3832783.3837488
   type: published
 - section: quantum
   year: 2026
   title: 'QuanForge: A Mutation Testing Framework for Quantum Neural Networks'
   authors: Minqi Shao, Shangzhou Xia, and Jianjun Zhao
-  venue: Proceedings of the ACM on Software Engineering, 3 (FSE 2026), 2882-2904
+  venue: Proceedings of the ACM on Software Engineering, Vol. 3 (34th ACM International Conference on the Foundations of Software Engineering,
+    FSE 2026), 2882-2904
   url: https://doi.org/10.1145/3808135
   type: published
 - section: quantum
   year: 2026
   title: 'QEMI: A Quantum Software Stacks Testing Framework via Equivalence Modulo Inputs'
   authors: Junjie Luo, Shangzhou Xia, Fuyuan Zhang, and Jianjun Zhao
-  venue: FASE 2026, LNCS 16504, 149-169
+  venue: 29th International Conference on Fundamental Approaches to Software Engineering (FASE 2026), LNCS 16504, 149-169
   url: https://doi.org/10.1007/978-3-032-22774-4_8
   type: published
 - section: quantum
   year: 2026
   title: Toward Entanglement Dependence Metrics for Quantum Software Complexity
   authors: Haibo Yu and Jianjun Zhao
-  venue: ESEM 2026, LIPIcs 394, Article 79:1-79:13
+  venue: 20th International Symposium on Empirical Software Engineering and Measurement (ESEM 2026), LIPIcs 394, Article 79:1-79:13
   url: https://doi.org/10.4230/LIPIcs.ESEM.2026.79
   type: published
 - section: quantum
   year: 2026
   title: 'QSolver: A Quantum Constraint Solver'
   authors: Shangzhou Xia, Haitao Fu, and Jianjun Zhao
-  venue: ICSE 2026, New Ideas and Emerging Results (NIER), 71–75
+  venue: 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), New Ideas and Emerging Results (NIER), 71–75
   url: https://doi.org/10.1145/3786582.3786813
   type: published
 - section: quantum
   year: 2026
-  title: 'Large Language Models for Quantum Software Engineering: Opportunities and Challenges in Modeling, Generation,
-    Testing, and Repair'
+  title: 'Large Language Models for Quantum Software Engineering: Opportunities and Challenges in Modeling, Generation, Testing, and
+    Repair'
   authors: Jiaming Ye, Qiang Hu, Fuyuan Zhang, Shangzhou Xia, Xiaoyu Guo, Xiongfei Wu, Yongqiang Lyu, and Jianjun Zhao
   venue: ACM Transactions on Software Engineering and Methodology, 35(9), Article 273
   url: https://doi.org/10.1145/3828167
@@ -58,8 +59,8 @@
 - section: quantum
   year: 2026
   title: Software Testing in the Quantum World
-  authors: Rui Abreu, Shaukat Ali, Paolo Arcaini, José Campos, Michael Felderer, Claude Gravel, Fuyuki Ishikawa, Stefan
-    Klikovits, Andriy Miranskyy, Anila Mjeda, Mohammad Reza Mousavi, Masaomi Yamaguchi, Lei Zhang, and Jianjun Zhao
+  authors: Rui Abreu, Shaukat Ali, Paolo Arcaini, José Campos, Michael Felderer, Claude Gravel, Fuyuki Ishikawa, Stefan Klikovits, Andriy
+    Miranskyy, Anila Mjeda, Mohammad Reza Mousavi, Masaomi Yamaguchi, Lei Zhang, and Jianjun Zhao
   venue: IEEE Computer, 59(4), 135–138
   url: https://doi.org/10.1109/MC.2026.3655854
   type: published
@@ -95,14 +96,14 @@
   year: 2025
   title: 'QuanUML: Towards A Modeling Language for Model-Driven Quantum Software Development'
   authors: Xiaoyu Guo, Shinobu Saito, and Jianjun Zhao
-  venue: COMPSAC 2025, 1344-1349
+  venue: 49th IEEE Annual Computers, Software, and Applications Conference (COMPSAC 2025), 1344-1349
   type: published
   url: https://doi.org/10.1109/COMPSAC65507.2025.00168
 - section: quantum
   year: 2025
   title: 'QIRopt: An Optimization Method for Quantum Intermediate Representation'
   authors: Junjie Luo, Haoyu Zhang, and Jianjun Zhao
-  venue: IEEE QCE 2025, 459-469
+  venue: IEEE International Conference on Quantum Computing and Engineering (QCE 2025), 459-469
   type: published
   url: https://doi.org/10.1109/QCE65121.2025.00058
 - section: quantum
@@ -122,9 +123,9 @@
 - section: quantum
   year: 2025
   title: 'Quantum Software Engineering: Roadmap and Challenges Ahead'
-  authors: Juan Manuel Murillo, Jose Garcia-Alonso, Enrique Moguel, Johanna Barzen, Frank Leymann, Shaukat Ali, Tao Yue,
-    Paolo Arcaini, Ricardo Pérez-Castillo, Ignacio García-Rodríguez de Guzmán, Mario Piattini, Antonio Ruiz-Cortés, Antonio
-    Brogi, Jianjun Zhao, Andriy Miranskyy, and Manuel Wimmer
+  authors: Juan Manuel Murillo, Jose Garcia-Alonso, Enrique Moguel, Johanna Barzen, Frank Leymann, Shaukat Ali, Tao Yue, Paolo Arcaini,
+    Ricardo Pérez-Castillo, Ignacio García-Rodríguez de Guzmán, Mario Piattini, Antonio Ruiz-Cortés, Antonio Brogi, Jianjun Zhao, Andriy
+    Miranskyy, and Manuel Wimmer
   venue: ACM Transactions on Software Engineering and Methodology, 34(5), Article 154
   url: https://doi.org/10.1145/3712002
   type: published
@@ -132,49 +133,50 @@
   year: 2025
   title: Quantum Concolic Testing
   authors: Shangzhou Xia, Jianjun Zhao, Fuyuan Zhang, and Xiaoyu Guo
-  venue: Proceedings of the ACM on Software Engineering, 2 (ISSTA 2025), Article ISSTA051, 1146-1166
+  venue: Proceedings of the ACM on Software Engineering, Vol. 2 (ACM SIGSOFT International Symposium on Software Testing and Analysis,
+    ISSTA 2025), Article ISSTA051, 1146-1166
   url: https://doi.org/10.1145/3728926
   type: published
 - section: quantum
   year: 2025
   title: 'QuanBench: Benchmarking Quantum Code Generation with Large Language Models'
   authors: Xiaoyu Guo, Minggu Wang, and Jianjun Zhao
-  venue: ASE 2025, Research Papers, 2657-2669
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Research Papers, 2657-2669
   url: https://doi.org/10.1109/ASE63991.2025.00218
   type: published
 - section: quantum
   year: 2025
   title: 'NovaQ: Improving Quantum Program Testing through Diversity-Guided Test Case Generation'
   authors: Tiancheng Jin, Shangzhou Xia, and Jianjun Zhao
-  venue: ASE 2025, NIER, 3881-3885
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), NIER, 3881-3885
   url: https://doi.org/10.1109/ASE63991.2025.00335
   type: published
 - section: quantum
   year: 2025
   title: Is Measurement Enough? Rethinking Output Validation in Quantum Program Testing
   authors: Jiaming Ye, Xiongfei Wu, Shangzhou Xia, Fuyuan Zhang, and Jianjun Zhao
-  venue: ASE 2025, NIER, 3824-3828
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), NIER, 3824-3828
   url: https://doi.org/10.1109/ASE63991.2025.00324
   type: published
 - section: quantum
   year: 2025
   title: 'When Abstraction Breaks Physics: Rethinking Modular Design in Quantum Software'
   authors: Jianjun Zhao
-  venue: ASE 2025, NIER, 3886-3890
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), NIER, 3886-3890
   url: https://doi.org/10.1109/ASE63991.2025.00336
   type: published
 - section: quantum
   year: 2025
   title: 'M2QCode: A Model-Driven Framework for Generating Multi-Platform Quantum Programs'
   authors: Xiaoyu Guo, Shinobu Saito, and Jianjun Zhao
-  venue: ASE 2025, Industry Showcase
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Industry Showcase
   url: https://doi.org/10.1109/ASE63991.2025.00301
   type: published
 - section: quantum
   year: 2025
   title: The Quantum Program Dependence Graph and Its Uses in Quantum Software Development
   authors: Haibo Yu and Jianjun Zhao
-  venue: Q-SE 2025, 48–55
+  venue: 6th IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE 2025), 48–55
   url: https://doi.org/10.1109/Q-SE66736.2025.00014
   type: published
 - section: quantum
@@ -230,28 +232,28 @@
   year: 2024
   title: 'Quantum Circuit Ansatz: Patterns of Abstraction and Reuse of Quantum Algorithm Design'
   authors: Xiaoyu Guo, Takahiro Muta, and Jianjun Zhao
-  venue: QSW 2024, 69–80
+  venue: IEEE International Conference on Quantum Software (QSW 2024), 69–80
   url: https://doi.org/10.1109/QSW62656.2024.00021
   type: published
 - section: quantum
   year: 2024
   title: On Repairing Quantum Programs Using ChatGPT
   authors: Xiaoyu Guo, Jianjun Zhao, and Pengzhan Zhao
-  venue: Q-SE 2024, 9–16
+  venue: 5th IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE 2024), 9–16
   url: https://doi.org/10.1145/3643667.3648223
   type: published
 - section: quantum
   year: 2023
   title: 'QChecker: Detecting Bugs in Quantum Programs via Static Analysis'
   authors: Pengzhan Zhao, Xiongfei Wu, Zhuo Li, and Jianjun Zhao
-  venue: Q-SE 2023, 50-57
+  venue: 4th IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE 2023), 50-57
   type: published
   url: https://doi.org/10.1109/Q-SE59154.2023.00014
 - section: quantum
   year: 2023
   title: 'QuraTest: Integrating Quantum Specific Features in Quantum Program Testing'
   authors: Jiaming Ye, Shangzhou Xia, Fuyuan Zhang, Paolo Arcaini, Lei Ma, Jianjun Zhao, and Fuyuki Ishikawa
-  venue: ASE 2023, 1149–1161
+  venue: 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023), 1149–1161
   url: https://doi.org/10.1109/ASE56229.2023.00196
   type: published
 - section: quantum
@@ -264,7 +266,8 @@
   earlier_version:
     title: 'Bugs4Q: A Benchmark of Real Bugs for Quantum Programs'
     authors: Pengzhan Zhao, Jianjun Zhao, Zhongtao Miao, and Shuhan Lan
-    venue: ASE 2021, New Ideas and Emerging Results (NIER), 1373-1376
+    venue: 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021), New Ideas and Emerging Results (NIER),
+      1373-1376
     url: https://doi.org/10.1109/ASE51524.2021.9678908
 - section: quantum
   year: 2023
@@ -273,27 +276,30 @@
   venue: IEEE International Conference on Quantum Software (QSW 2023), 128–137
   type: published
   url: https://arxiv.org/abs/2306.06468
+  award: Best Paper Award (QSW 2023)
 - section: quantum
   year: 2023
   title: Static Entanglement Analysis of Quantum Programs
   authors: Shangzhou Xia and Jianjun Zhao
-  venue: Q-SE 2023
+  venue: 4th IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE 2023)
   type: published
   url: https://arxiv.org/abs/2304.05049
 - section: quantum
   year: 2023
   title: Enhancing Code Safety in Quantum Intermediate Representation
   authors: Junjie Luo and Jianjun Zhao
-  venue: ASE 2023, New Ideas and Emerging Results (NIER), 1771–1775
+  venue: 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023), New Ideas and Emerging Results (NIER),
+    1771–1775
   type: published
   url: https://doi.org/10.1109/ASE56229.2023.00195
 - section: quantum
   year: 2023
   title: An Empirical Study of Bugs in Quantum Machine Learning Frameworks
   authors: Pengzhan Zhao, Xiongfei Wu, Junjie Luo, Zhuo Li, and Jianjun Zhao
-  venue: QSW 2023, 68-75
+  venue: IEEE International Conference on Quantum Software (QSW 2023), 68-75
   type: published
   url: https://doi.org/10.1109/QSW59989.2023.00018
+  award: Best Student Paper Award (QSW 2023)
 - section: quantum
   year: 2023
   title: On Refactoring Quantum Programs in Q#
@@ -305,28 +311,29 @@
   year: 2022
   title: A Comprehensive Study of Bug Fixes in Quantum Programs
   authors: Junjie Luo, Pengzhan Zhao, Zhongtao Miao, Shuhan Lan, and Jianjun Zhao
-  venue: SANER 2022 (Q-SANER workshop), 1239-1246
+  venue: 1st International Workshop on Quantum Software Analysis, Evolution and Reengineering (Q-SANER 2022), co-located with the IEEE
+    International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), 1239-1246
   type: published
   url: https://doi.org/10.1109/SANER53432.2022.00147
 - section: quantum
   year: 2022
   title: Automated Synthesis of Quantum Circuits Using Neural Network
   authors: Kentaro Murakami and Jianjun Zhao
-  venue: IEEE QRS 2022, 694-702
+  venue: 22nd IEEE International Conference on Software Quality, Reliability and Security (QRS 2022), 694-702
   type: published
   url: https://doi.org/10.1109/QRS57517.2022.00075
 - section: quantum
   year: 2021
   title: Some Size and Structure Metrics for Quantum Software
   authors: Jianjun Zhao
-  venue: Q-SE 2021, 22–27
+  venue: 2nd IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE 2021), 22–27
   type: published
   url: https://arxiv.org/abs/2103.08815
 - section: quantum
   year: 2021
   title: Identifying Bug Patterns in Quantum Programs
   authors: Pengzhan Zhao, Jianjun Zhao, and Lei Ma
-  venue: Q-SE 2021, 16–21
+  venue: 2nd IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE 2021), 16–21
   type: published
   url: https://doi.org/10.1109/Q-SE52541.2021.00011
 - section: quantum
@@ -340,21 +347,23 @@
   year: 2026
   title: Precise Verification of Transformers Through ReLU-Catalyzed Abstraction Refinement
   authors: Hengjie Liu, Zhenya Zhang, and Jianjun Zhao
-  venue: Computer Aided Verification (CAV 2026), 527–550
+  venue: 38th International Conference on Computer Aided Verification (CAV 2026), 527–550
   type: published
   url: https://doi.org/10.1007/978-3-032-32526-6_25
 - section: ai
   year: 2026
   title: A Comprehensive Study of Deep Learning Model Fixing Approaches
   authors: Hanmo You, Zan Wang, Zishuo Dong, Luanqi Mo, Jianjun Zhao, and Junjie Chen
-  venue: ICSE 2026
+  venue: 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)
   type: published
   url: https://doi.org/10.1145/3744916.3764528
+  award: ACM SIGSOFT Distinguished Paper Award (ICSE 2026)
+  award_url: https://conf.researchr.org/details/icse-2026/icse-2026-research-track/11/A-Comprehensive-Study-of-Deep-Learning-Model-Fixing-Approaches
 - section: ai
   year: 2026
   title: 'META²V2V: Revealing Behavioural Deviations under Mutual Perception in Multi-Vehicle Autonomous Driving'
   authors: Lejin Li, Xiao-Yi Zhang, Shuncheng Tang, Zhenya Zhang, and Jianjun Zhao
-  venue: ICSE 2026
+  venue: 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)
   type: published
   url: https://conf.researchr.org/details/icse-2026/icse-2026-research-track/280/META-V2V-Revealing-Behavioural-Deviations-under-Mutual-Perception-in-Multi-Vehicle-A
 - section: ai
@@ -368,38 +377,56 @@
   year: 2023
   title: 'DeepRover: A Query-efficient Blackbox Attack for Deep Neural Networks'
   authors: Fuyuan Zhang, Xinwen Hu, Lei Ma, and Jianjun Zhao
-  venue: ESEC/FSE 2023, 1384–1394
+  venue: 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE
+    2023), 1384–1394
   type: published
   url: https://doi.org/10.1145/3611643.3616370
 - section: ai
+  year: 2020
+  type: published
+  title: An Empirical Study on Robustness of DNNs with Out-of-Distribution Awareness
+  authors: Lingjun Zhou, Bing Yu, David Berend, Xiaofei Xie, Xiaohong Li, Jianjun Zhao, and Xusheng Liu
+  venue: 27th Asia-Pacific Software Engineering Conference (APSEC 2020), 266-275
+  url: https://doi.org/10.1109/APSEC51365.2020.00035
+  award: Best Paper Award (APSEC 2020)
+- section: ai
   year: 2019
   title: 'DeepHunter: A Coverage-Guided Fuzz Testing Framework for Deep Neural Networks'
-  authors: Xiaofei Xie, Lei Ma, Felix Juefei-Xu, Minhui Xue, Hongxu Chen, Yang Liu, Jianjun Zhao, Bo Li, Jianxiong Yin,
-    and Simon See
-  venue: ISSTA 2019, 146–157
+  authors: Xiaofei Xie, Lei Ma, Felix Juefei-Xu, Minhui Xue, Hongxu Chen, Yang Liu, Jianjun Zhao, Bo Li, Jianxiong Yin, and Simon See
+  venue: ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019), 146–157
   url: https://doi.org/10.1145/3293882.3330579
   type: published
 - section: ai
   year: 2018
   title: 'DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems'
-  authors: Lei Ma, Felix Juefei-Xu, Fuyuan Zhang, Jiyuan Sun, Minhui Xue, Bo Li, Chunyang Chen, Ting Su, Li Li, Yang
-    Liu, Jianjun Zhao, and Yadong Wang
-  venue: ASE 2018, 120–131; ACM SIGSOFT Distinguished Paper Award
+  authors: Lei Ma, Felix Juefei-Xu, Fuyuan Zhang, Jiyuan Sun, Minhui Xue, Bo Li, Chunyang Chen, Ting Su, Li Li, Yang Liu, Jianjun Zhao,
+    and Yadong Wang
+  venue: 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018), 120–131
   url: https://doi.org/10.1145/3238147.3238202
   type: published
+  award: ACM SIGSOFT Distinguished Paper Award (ASE 2018)
+  award_url: https://ase2018.com/?p=program
 - section: ai
   year: 2018
   title: 'DeepMutation: Mutation Testing of Deep Learning Systems'
-  authors: Lei Ma, Fuyuan Zhang, Jiyuan Sun, Minhui Xue, Bo Li, Felix Juefei-Xu, Chao Xie, Li Li, Yang Liu, Jianjun Zhao,
-    and Yadong Wang
-  venue: ISSRE 2018, 100–111
+  authors: Lei Ma, Fuyuan Zhang, Jiyuan Sun, Minhui Xue, Bo Li, Felix Juefei-Xu, Chao Xie, Li Li, Yang Liu, Jianjun Zhao, and Yadong
+    Wang
+  venue: 29th IEEE International Symposium on Software Reliability Engineering (ISSRE 2018), 100–111
   url: https://doi.org/10.1109/ISSRE.2018.00021
   type: published
+- section: earlier
+  year: 2016
+  type: published
+  title: Efficient and Precise Dynamic Slicing for Client-Side JavaScript Programs
+  authors: Jiabin Ye, Cheng Zhang, Lei Ma, Haibo Yu, and Jianjun Zhao
+  venue: 23rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2016), 449-459
+  url: https://doi.org/10.1109/SANER.2016.96
+  award: Best Paper Candidate Award (SANER 2016)
 - section: earlier
   year: 2003
   title: Data-Flow-Based Unit Testing of Aspect-Oriented Programs
   authors: Jianjun Zhao
-  venue: COMPSAC 2003, 188–197
+  venue: 27th Annual International Computer Software and Applications Conference (COMPSAC 2003), 188–197
   url: https://www.sciweavers.org/publications/data-flow-based-unit-testing-aspect-oriented-programs
   type: published
 - section: earlier
