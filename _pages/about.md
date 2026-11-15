@@ -23,11 +23,7 @@ More details are available on the [Research](/research/) page.
 
 ## Publications
 
-Selected papers are listed on the [Publications](/publications/) page. A [more extensive publication list](https://stap.ait.kyushu-u.ac.jp/~zhao/papers-by-year.html) is also available on my earlier university website.
-
-## Research group
-
-The earlier [PANGU Lab website](https://pangukaitian.github.io/pangu/) contains information about research activities and former members.
+Selected papers are listed on the [Publications](/publications/) page. For a more complete and up-to-date record, please see my [Google Scholar](https://scholar.google.com/citations?user=PZZ0iygAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/71/6948-1.html) profile.
 
 ## Contact
 
