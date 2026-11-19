@@ -19,7 +19,7 @@ html[data-theme="dark"] .publication-award {
 </style>
 
 
-<p>A selection of my publications, with an emphasis on quantum software engineering. Journal and conference papers are listed alongside independent arXiv papers. The publication venue is given for each item.</p>
+<p>This page lists my publications on quantum software engineering and selected publications on quality assurance for AI systems, software engineering, and programming languages. Journal and conference papers are listed alongside independent arXiv papers. The publication venue is given for each item.</p>
 
 <p>For a more complete and up-to-date record, please see my <a href="https://scholar.google.com/citations?user=PZZ0iygAAAAJ&amp;hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/71/6948-1.html">DBLP</a> profile.</p>
 
@@ -47,7 +47,7 @@ html[data-theme="dark"] .publication-award {
     {% when "ai" %}<h2>Quality Assurance for AI Systems (Selected)</h2>
     {% when "earlier" %}<h2>Software Engineering and Programming Languages (Selected)</h2>
   {% endcase %}
-  {% assign items = site.data.jianjun_publications | where: "section", sec | sort: "year" | reverse %}
+  {% assign items = site.data.jianjun_publications | where: "section", sec | sort: "sort_key" | reverse %}
   {% assign lastyear = "" %}
   {% for paper in items %}
     {% if paper.year != lastyear %}

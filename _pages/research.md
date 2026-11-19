@@ -14,6 +14,8 @@ I work with the following Ph.D. students on quantum software engineering: Shangz
 
 I also work on quality assurance for AI systems. Much of this research concerns testing, robustness evaluation, verification, debugging, and repair of deep learning systems and AI-enabled cyber-physical systems.
 
+I work with the following Ph.D. students on quality assurance for AI systems: Minggu Wang, Jianlang Chen, Lejin Li, Henjie Liu, Lulu Zhu, Jianhong Wang, Kota Fukuda, Wei Wu, Kaixiang Dong, and Haoyu Zhang.
+
 ## Software Engineering and Programming Languages
 
 My earlier research covered program dependence analysis, program slicing, software testing, and aspect-oriented software development. I continue to draw on this background in my research on quantum software and AI systems.
