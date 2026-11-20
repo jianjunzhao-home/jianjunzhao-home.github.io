@@ -18,16 +18,14 @@ html[data-theme="dark"] .publication-award {
 }
 .publication-perspective {
   margin-top: 0.35em;
-  font-size: 0.9em;
+  font-size: 0.85em;
   font-weight: normal;
   line-height: 1.5;
 }
 </style>
 
 
-<p>This page lists my publications on quantum software engineering and selected publications on quality assurance for AI systems, software engineering, and programming languages.</p>
-
-<p>For a more complete and up-to-date record, please see my <a href="https://scholar.google.com/citations?user=PZZ0iygAAAAJ&amp;hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/71/6948-1.html">DBLP</a> profile.</p>
+<p>This page lists my publications on quantum software engineering and selected publications on quality assurance for AI systems, software engineering, and programming languages. For a more complete and up-to-date record, please see my <a href="https://scholar.google.com/citations?user=PZZ0iygAAAAJ&amp;hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/71/6948-1.html">DBLP</a> profile.</p>
 
 <h2>Perspectives on Software Engineering and Quantum Computing</h2>
 <p>These two papers outline the research landscape and future directions at the intersection of software engineering and quantum computing, covering both software engineering for quantum computing (SE4QC) and quantum computing for software engineering (QC4SE).</p>
@@ -53,7 +51,9 @@ html[data-theme="dark"] .publication-award {
     {% when "ai" %}<h2>Quality Assurance for AI Systems (Selected)</h2>
     {% when "earlier" %}<h2>Software Engineering and Programming Languages (Selected)</h2>
   {% endcase %}
-  {% assign items = site.data.jianjun_publications | where: "section", sec | sort: "sort_key" | reverse %}
+  {% assign section_papers = site.data.jianjun_publications | where: "section", sec %}
+  {% assign featured_in_section = perspective_papers | where: "list_section", sec %}
+  {% assign items = section_papers | concat: featured_in_section | sort: "sort_key" | reverse %}
   {% assign lastyear = "" %}
   {% for paper in items %}
     {% if paper.year != lastyear %}

@@ -10,6 +10,7 @@
   sort_date: '2020-07-01'
   date_precision: month
   sort_key: 2020-07-01-9953
+  list_section: quantum
 - section: perspectives
   perspective_order: 2
   perspective_label: Quantum Computing for Software Engineering (QC4SE)
@@ -22,6 +23,7 @@
   sort_date: '2025-05-01'
   date_precision: month
   sort_key: 2025-05-01-9973
+  list_section: earlier
 - section: quantum
   year: 2026
   title: 'Large Language Models for Quantum Code Translation: An Exploratory Study'
@@ -210,7 +212,7 @@
   year: 2025
   title: 'M2QCode: A Model-Driven Framework for Generating Multi-Platform Quantum Programs'
   authors: Xiaoyu Guo, Shinobu Saito, and Jianjun Zhao
-  venue: 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Industry Showcase
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Industry Showcase, 3639-3649
   url: https://doi.org/10.1109/ASE63991.2025.00301
   type: published
   sort_date: '2025-11-01'
