@@ -23,7 +23,7 @@
   sort_date: '2025-05-01'
   date_precision: month
   sort_key: 2025-05-01-9973
-  list_section: earlier
+  list_section: quantum
 - section: quantum
   year: 2026
   title: 'Large Language Models for Quantum Code Translation: An Exploratory Study'
