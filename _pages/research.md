@@ -6,7 +6,7 @@ author_profile: true
 
 ## Quantum Software Engineering
 
-My main research area is [quantum software engineering](https://arxiv.org/abs/2007.07047). I study methods for developing and assessing quantum software, with work on program analysis, testing, debugging, specification, and verification. I am also interested in software design and architecture, and in how to define and measure quantum software quality. Beyond individual techniques, I am interested in developing a systematic engineering foundation for quantum software, taking into account both established software engineering principles and the unique characteristics of quantum computing.
+My main research area is [quantum software engineering](https://arxiv.org/abs/2007.07047). I study methods for developing and assessing quantum software, with work on program analysis, testing, debugging, specification, and verification. I am also interested in quantum software design and architecture, and in how to define and measure quantum software quality. Beyond individual techniques, I am interested in developing a systematic engineering foundation for quantum software, taking into account both established software engineering principles and the unique characteristics of quantum computing.
 
 I work with the following Ph.D. students on quantum software engineering: Shangzhou Xia, Tiancheng Jin, Qiming Li, Xiaoyu Guo, Xiyuan Li, Zicen Zhao, Minqi Shao, and Qichen Wang.
 
