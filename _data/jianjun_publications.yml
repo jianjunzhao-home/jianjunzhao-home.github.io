@@ -496,8 +496,9 @@
   title: Current Status of Quantum Software Engineering
   authors: Jianjun Zhao
   type: published
-  venue: IPSJ SIG Technical Report, 2020-QS-1, No. 1 (2020)
-  url: ''
+  venue: IPSJ SIG Technical Report, Vol. 2020-QS-1, No. 1, pp. 1–9 (2020)
+  note: (In Japanese)
+  url: https://ipsj.ixsq.nii.ac.jp/records/207287
   sort_date: '2020-10-01'
   date_precision: month
   sort_key: 2020-10-01-9886
