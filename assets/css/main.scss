@@ -37,12 +37,8 @@
     "layout/sidebar"
 ;
 
-/* Pale blue page background; preserve the existing dark theme. */
+/* Uniform pale blue backgrounds in light mode; preserve the dark theme. */
 html:not([data-theme="dark"]) {
   --global-bg-color: #EFF5FB;
-}
-
-/* Keep the header and its desktop/mobile navigation white in light mode. */
-html:not([data-theme="dark"]) .masthead {
-  --global-bg-color: #fff;
+  --global-footer-bg-color: #EFF5FB;
 }
